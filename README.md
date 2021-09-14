@@ -1,4 +1,5 @@
-# favorite-cmd-commands
+<h1 style="color:white;background-color:black;padding:10px 20px;">favorite-cmd-commands
+</h1>
 
 ## `> touch \<filename>`
 
